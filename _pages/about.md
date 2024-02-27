@@ -23,10 +23,26 @@ Hi! I am a second year M.S. in Computer Science Student at Texas A&M University,
 
 
 # 🔥 News
+- *2024.02*: &nbsp;🎉🎉 Our paper, "The Neglected Tails of Vision-Language Models" has been accepted at CVPR 2024! 
 - *2023.12*: &nbsp;🎉🎉 I will be presenting our paper, "Prompting Scientific Names for Zero-Shot Species Recognition" at EMNLP 2023. 
 - *2022.02*: &nbsp;🎉🎉 I was awarded the Texas A&M Computer Science departmental scholarship. 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/teaser-emnlp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The Neglected Tails of Vision-Language Models.](https://arxiv.org/abs/2401.12425)
+
+**Shubham Parashar**^*^, Zhiqiu Lin^*^, Tian Liu^*^, Xianjue Dong, Yanan Li, Deva Ramanan, James Caverlee, Shu Kong
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QOMZiUMAAAAJ&citation_for_view=QOMZiUMAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Our study is the first to reveal bias in popular VLMs like CLIP due to long-tailed training data.
+- To mitigate the bias, we propose a novel prompting method and retrieval augmented strategy. 
+- Both our methods achieve a new SOTA and our retrieval augmented method is 100x cheaper on compute resources compared to the previous retrieval augmented strategies. 
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/teaser-emnlp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
