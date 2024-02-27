@@ -36,7 +36,8 @@ Hi! I am a second year M.S. in Computer Science Student at Texas A&M University,
 
 **Shubham Parashar**^*^, Zhiqiu Lin^*^, Tian Liu^*^, Xianjue Dong, Yanan Li, Deva Ramanan, James Caverlee, Shu Kong
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QOMZiUMAAAAJ&citation_for_view=QOMZiUMAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://shubhamprshr27.github.io/neglected-tails-of-vlms/)
+[**Paper**](https://arxiv.org/abs/2401.12425) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Our study is the first to reveal bias in popular VLMs like CLIP due to long-tailed training data.
 - To mitigate the bias, we propose a novel prompting method and retrieval augmented strategy. 
 - Both our methods achieve a new SOTA and our retrieval augmented method is 100x cheaper on compute resources compared to the previous retrieval augmented strategies. 
@@ -51,7 +52,7 @@ Hi! I am a second year M.S. in Computer Science Student at Texas A&M University,
 
 **Shubham Parashar**, Zhiqiu Lin, Yanan Li, Shu Kong
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QOMZiUMAAAAJ&citation_for_view=QOMZiUMAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://arxiv.org/abs/2310.09929) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose an embarassingly simple prompting method that boosts the zero-shot accuracy of VLMs on 4 fine-grained species recognition benchmarks by **2-5x**.
 </div>
 </div>
