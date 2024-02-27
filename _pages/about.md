@@ -29,7 +29,7 @@ Hi! I am a second year M.S. in Computer Science Student at Texas A&M University,
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/teaser-emnlp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/teaser-tails.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The Neglected Tails of Vision-Language Models.](https://arxiv.org/abs/2401.12425)
