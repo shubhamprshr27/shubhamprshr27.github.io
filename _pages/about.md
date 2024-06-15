@@ -17,10 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a Ph.D. student in Computer Science at Texas A&M University, under the guidance of Dr. Shuiwang Ji. Previously, I earned my M.S. in Computer Science at the same institution, advised by Dr. Shu Kong and Dr. James Caverlee. I completed my undergraduate degree in Computer Science and Engineering at the Vellore Institute of Technology, Chennai.
-
-<br/>
-Currently, my research interests include exploring egocentric understanding and spatial reasoning through large multimodal models (LMMs) to process 2D (images) and 3D (videos) data. During my M.S. thesis, I focused on identifying and mitigating biases in Vision-Language Models (VLMs) to improve their robustness and fairness, especially for use in multimodal chatbots and diffusion models.
+Hi! I am a Ph.D. student in Computer Science at Texas A&M University, under the guidance of Dr. Shuiwang Ji. Previously, I earned my M.S. in Computer Science at the same institution, advised by Dr. Shu Kong and Dr. James Caverlee. I completed my undergraduate degree in Computer Science and Engineering at the Vellore Institute of Technology, Chennai. Currently, my research interests include exploring egocentric understanding and spatial reasoning through large multimodal models (LMMs) to process 2D (images) and 3D (videos) data. During my M.S. thesis, I focused on identifying and mitigating biases in Vision-Language Models (VLMs) to improve their robustness and fairness, especially for use in multimodal chatbots and diffusion models.
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
@@ -69,9 +66,9 @@ Currently, my research interests include exploring egocentric understanding and 
 
 # 📖 Education
 <!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2024.06 - Present, Ph.D. in Computer Science, Texas A&M University, College Station, Texas 
-- *2022.08 - 2024.05, M.S. in Computer Science, Texas A&M University, College Station, Texas 
-- *2015.07 - 2019.05, Undergraduate, Vellore Institute of Technology University, Chennai, India
+- *2024.06 - Present*, Ph.D. in Computer Science, Texas A&M University, College Station, Texas 
+- *2022.08 - 2024.05*, M.S. in Computer Science, Texas A&M University, College Station, Texas 
+- *2015.07 - 2019.05*, Undergraduate, Vellore Institute of Technology University, Chennai, India
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
