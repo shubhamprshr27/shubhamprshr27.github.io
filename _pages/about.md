@@ -34,7 +34,7 @@ Hi! I am a Ph.D. student in Computer Science at Texas A&M University, under the 
 
 [The Neglected Tails of Vision-Language Models.](https://arxiv.org/abs/2401.12425)
 
-**Shubham Parashar**^*^, Zhiqiu Lin^*^, Tian Liu^*^, Xianjue Dong, Yanan Li, Deva Ramanan, James Caverlee, Shu Kong
+**Shubham Parashar**, Zhiqiu Lin, Tian Liu, Xianjue Dong, Yanan Li, Deva Ramanan, James Caverlee, Shu Kong
 
 [**Project**](https://shubhamprshr27.github.io/neglected-tails-of-vlms/)
 [**Paper**](https://arxiv.org/abs/2401.12425) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
