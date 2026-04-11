@@ -64,7 +64,7 @@ __Tian Liu__, Huixin Zhang, **Shubham Parashar**, Shu Kong
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 (DMLR 2024 **ORAL**)</div><img src='images/teaser-tails.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 (DMLR 2024 ORAL)</div><img src='images/teaser-tails.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The Neglected Tails in Vision-Language Models.](https://openaccess.thecvf.com/content/CVPR2024/papers/Parashar_The_Neglected_Tails_in_Vision-Language_Models_CVPR_2024_paper.pdf)
