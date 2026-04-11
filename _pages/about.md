@@ -28,7 +28,7 @@ During my **M.S.** at Texas A&M, advised by [Dr. Shu Kong](https://aimerykong.gi
 - *2026.01*: Our paper, "Curriculum Reinforcement Learning from Easy to Hard Tasks Improves LLM Reasoning" was accepted at ICLR 2026!
 - *2025.05*: I will be interning as an Applied Scientist at Amazon (Santa Clara, CA) this summer.
 - *2025.02*: Our paper, "Few-Shot Recognition via Stage-Wise Retrieval-Augmented Finetuning" was accepted at CVPR 2025!
-- *2024.06*: Our paper, "The Neglected Tails of Vision-Language Models" was accepted to DMLR as **ORAL**. 
+- *2024.06*: Our paper, "The Neglected Tails of Vision-Language Models" was accepted to DMLR as <span style="color:green">**ORAL**</span>. 
 - *2024.06*: I have begun my Ph.D. at Texas A&M under the supervision of Dr. Shuiwang Ji. 
 - *2024.02*: Our paper, "The Neglected Tails of Vision-Language Models" has been accepted at CVPR 2024! 
 - *2023.12*: I will be presenting our paper, "Prompting Scientific Names for Zero-Shot Species Recognition" at EMNLP 2023. 
@@ -62,7 +62,7 @@ __Tian Liu__, Huixin Zhang, **Shubham Parashar**, Shu Kong
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 (DMLR 2024 <span style="color:green">**ORAL**</span>)</div><img src='images/teaser-tails.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 (DMLR 2024 **ORAL**)</div><img src='images/teaser-tails.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The Neglected Tails in Vision-Language Models.](https://openaccess.thecvf.com/content/CVPR2024/papers/Parashar_The_Neglected_Tails_in_Vision-Language_Models_CVPR_2024_paper.pdf)
@@ -147,7 +147,7 @@ __Tian Liu__, Huixin Zhang, **Shubham Parashar**, Shu Kong
 - *2024*: Organizer — Visual Perception via Learning in an Open World Workshop @ **CVPR**
 - *2024*: Reviewer — What is Next in Multimodal Foundation Models Workshop @ **CVPR**
 
-## 🎓 Mentoring
+## Mentoring
 
 - *2025–Present*: [Lakshmi Jotsna Madhavarapu](https://www.linkedin.com/in/lakshmi-jotsna-madhavarapu-116863253/) — Incoming Data Scientist Intern @ Capital One
 - *2025–Present*: [Atharv Chagi](https://www.linkedin.com/in/atharv-chagi-b04575234/) — Incoming Software Engineer Intern @ Texas Instruments
