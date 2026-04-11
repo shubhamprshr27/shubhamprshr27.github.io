@@ -43,7 +43,7 @@ During my **M.S.** at Texas A&M, advised by [Dr. Shu Kong](https://aimerykong.gi
 
 **Shubham Parashar**, Shurui Gui, Xiner Li, Hongyi Ling, Sushil Vemuri, Blake Olson, Eric Li, Yu Zhang, James Caverlee, Dileep Kalathil, Shuiwang Ji
 
-[**Paper**](https://openreview.net/forum?id=KJvHnl3kUv)[**Code**](https://github.com/divelab/E2H-Reasoning) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://openreview.net/forum?id=KJvHnl3kUv) [**Code**](https://github.com/divelab/E2H-Reasoning) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose E2H Reasoner, a curriculum-based RL approach that schedules tasks from easy to hard using a probabilistic scheduler, enabling small LLMs (1.5B–3B) to solve tasks they initially failed at zero-shot.
 - We provide theoretical convergence guarantees showing curriculum stages require fewer samples than direct learning on hard tasks.
 </div>
