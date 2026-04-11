@@ -117,7 +117,7 @@ __Tian Liu__, Huixin Zhang, **Shubham Parashar**, Shu Kong
 
 **Shubham Parashar**, Hongyi Ling, Sambhav Khurana, Blake Olson, Anwesha Basu, Gaurangi Sinha, Zhengzhong Tu, James Caverlee, Shuiwang Ji
 
-[**Paper**](https://arxiv.org/abs/2502.19295) [**Code**](https://github.com/divelab/Sys2Bench) [**OpenReview**](https://openreview.net/forum?id=yX1gmPYHOL) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://arxiv.org/abs/2502.19295) [**Code**](https://github.com/divelab/Sys2Bench) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose AutoHD, which prompts LLMs to generate explicit heuristic functions as Python code to guide inference-time search, removing reliance on unreliable self-verification.
 - AutoHD refines heuristics functions through an evolutionary process, which are then used for inference time search.
 </div>
