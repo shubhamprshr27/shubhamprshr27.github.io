@@ -17,15 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a Ph.D. student in Computer Science at Texas A&M University, advised by [Dr. Shuiwang Ji](https://people.tamu.edu/~sji/); actively collaborate with [Dr. Dileep Kalathil](https://people.it.tamu.edu/~dileep.kalathil/) and [Dr. James Caverlee](https://caverlee.github.io/). My research focuses on **post-training of Large Language Models (LLMs) and Diffusion Language Models (DLMs)**. 
+Hi! I am a Ph.D. student in Computer Science at Texas A&M University, advised by [Dr. Shuiwang Ji](https://people.tamu.edu/~sji/); actively collaborate with [Dr. Dileep Kalathil](https://people.it.tamu.edu/~dileep.kalathil/) and [Dr. James Caverlee](https://caverlee.github.io/). My research focuses on **post-training of Large Language Models (LLMs) and Diffusion Language Models (DLMs)**. Through post-training, I aim to improve their reasoning capabilities and accelerate inference via parallel token decoding.
 
-More specifically, I develop curriculum-based reinforcement learning approaches that train models at the frontier of their learnability, continuously expanding what they can reason about and yielding progressively stronger models. I have published multiple papers as (co-)first author in top-tier venues including **ICLR**, **CVPR**, and **EMNLP**.
+<!-- More specifically, I develop curriculum-based reinforcement learning approaches that train models at the frontier of their learnability, continuously expanding what they can reason about and yielding progressively stronger models. I have published multiple papers as (co-)first author in top-tier venues including **ICLR**, **CVPR**, and **EMNLP**.
 
-During my **M.S.** at Texas A&M, advised by [Dr. Shu Kong](https://aimerykong.github.io/) and [Dr. James Caverlee](https://caverlee.github.io/), I focused on identifying and mitigating biases in **Vision-Language Models (VLMs)** to improve their robustness and fairness, especially for use in multimodal chatbots and diffusion models. Prior to that, I completed my undergraduate degree in Computer Science and Engineering at the **Vellore Institute of Technology, Chennai**.
+During my **M.S.** at Texas A&M, advised by [Dr. Shu Kong](https://aimerykong.github.io/) and [Dr. James Caverlee](https://caverlee.github.io/), I focused on identifying and mitigating biases in **Vision-Language Models (VLMs)** to improve their robustness and fairness, especially for use in multimodal chatbots and diffusion models. Prior to that, I completed my undergraduate degree in Computer Science and Engineering at the **Vellore Institute of Technology, Chennai**. -->
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
+- *2026.05*: I have been awarded the silver reviewer award for ICML 2026!
+- *2026.04*: Our paper, "Learnability-Informed Fine-Tuning for Diffusion Language Models" was accepted at ICML 2026!
 - *2026.03*: I have been awarded the ICLR 2026 Financial Assistance grant to attend the conference in Rio!
 - *2026.01*: Our paper, "Curriculum Reinforcement Learning from Easy to Hard Tasks Improves LLM Reasoning" was accepted at ICLR 2026!
 - *2025.05*: I will be interning as an Applied Scientist at Amazon (Santa Clara, CA) this summer.
@@ -37,6 +39,20 @@ During my **M.S.** at Texas A&M, advised by [Dr. Shu Kong](https://aimerykong.gi
 - *2022.02*: I was awarded the Texas A&M Computer Science departmental scholarship. 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/teaser-lift.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LIFT: Learnability-Informed Fine-Tuning for Diffusion Language Models](https://arxiv.org/abs/2605.22939)
+
+**Shubham Parashar**, Atharv Chagi, Jacob Helwig, Lakshmi Jotsna, Sushil Vemuri, James Caverlee, Dileep Kalathil, Shuiwang Ji
+
+[**Code**](https://github.com/divelab/LIFT) <strong><span class='show_paper_citations' data=''></span></strong>
+- We show that vanilla SFT for diffusion language models (DLMs) overlooks learnability, what and when tokens are learned: rare tokens are hard to learn when most of the input is masked, while common tokens are trivial to when most of the input is unmasked.
+- We propose LIFT, an efficient SFT-based post-training algorithm that learns easy tokens at large $t$ and hard tokens at small $t$, aligning training with the information available at each diffusion time step.
+- We show that LIFT performs competitvely with RL based post-training for DLMs, with much lesser compute.
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/teaser-e2h.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -125,6 +141,7 @@ __Tian Liu__, Huixin Zhang, **Shubham Parashar**, Shu Kong
 
 
 # 🎖 Honors and Awards
+- *2026*: **Silver Reviewer Award** - International Conference on Machine Learning (**ICML**) *(awarded to Top 25% of ~18,000 reviewers)*
 - *2026*: **Financial Assistance Award** — International Conference on Learning Representations (**ICLR**) *(awarded to ~325 of ~15,000 authors, ~2.2%)*
 - *2024*: **Best Reviewer Award** — Annual Conference on Neural Information Processing Systems (**NeurIPS**)
 - *2024*: **Travel Award** — Conference on Computer Vision and Pattern Recognition (**CVPR**)
