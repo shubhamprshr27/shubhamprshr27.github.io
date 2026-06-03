@@ -52,6 +52,7 @@ During my **M.S.** at Texas A&M, advised by [Dr. Shu Kong](https://aimerykong.gi
 - We propose LIFT, an efficient SFT-based post-training algorithm that learns easy tokens at large $t$ and hard tokens at small $t$, aligning training with the information available at each diffusion time step.
 - We show that LIFT performs competitvely with RL based post-training for DLMs, with much lesser compute.
 </div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/teaser-e2h.png' alt="sym" width="100%"></div></div>
@@ -156,6 +157,7 @@ __Tian Liu__, Huixin Zhang, **Shubham Parashar**, Shu Kong
 - *Spring 2023*: Grader — CSCE 642: Deep Reinforcement Learning (Texas A&M)
 
 ## Professional Service
+- *2026*: Volunteer - International Conference on Machine Learning (**ICML**)
 - *2026*: Reviewer — ACM Computing Surveys (**CSUR**)
 - *2026*: Reviewer — Transactions on Pattern Analysis and Machine Intelligence (**PAMI**)
 - *2025*: Reviewer — Transactions on Machine Learning Research (**TMLR**)
