@@ -47,7 +47,7 @@ During my **M.S.** at Texas A&M, advised by [Dr. Shu Kong](https://aimerykong.gi
 
 **Shubham Parashar**, Atharv Chagi, Jacob Helwig, Lakshmi Jotsna, Sushil Vemuri, James Caverlee, Dileep Kalathil, Shuiwang Ji
 
-[**Code**](https://github.com/divelab/LIFT) <strong><span class='show_paper_citations' data=''></span></strong>
+[**Paper**](https://arxiv.org/abs/2605.22939) [**Code**](https://github.com/divelab/LIFT) <strong><span class='show_paper_citations' data=''></span></strong>
 - We show that vanilla SFT for diffusion language models (DLMs) overlooks learnability, what and when tokens are learned: rare tokens are hard to learn when most of the input is masked, while common tokens are trivial to when most of the input is unmasked.
 - We propose LIFT, an efficient SFT-based post-training algorithm that learns easy tokens at large $t$ and hard tokens at small $t$, aligning training with the information available at each diffusion time step.
 - We show that LIFT performs competitvely with RL based post-training for DLMs, with much lesser compute.
