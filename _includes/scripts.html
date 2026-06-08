@@ -2,3 +2,27 @@
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
+<style>
+  .paper-box-image img { cursor: zoom-in; }
+  #lightbox { position: fixed; inset: 0; background: rgba(0,0,0,.85);
+    display: none; align-items: center; justify-content: center; z-index: 9999;
+    padding: 24px; cursor: zoom-out; }
+  #lightbox.open { display: flex; }
+  #lightbox img { max-width: 95vw; max-height: 90vh; background: #fff;
+    border-radius: 6px; box-shadow: 0 10px 40px rgba(0,0,0,.5); cursor: default; }
+</style>
+<div id="lightbox"><img src="" alt=""></div>
+<script>
+(function () {
+  var lb = document.getElementById('lightbox'), big = lb.querySelector('img');
+  function close() { lb.classList.remove('open'); document.body.style.overflow = ''; big.src = ''; }
+  document.querySelectorAll('.paper-box-image img').forEach(function (img) {
+    img.addEventListener('click', function () {
+      big.src = img.src; big.alt = img.alt;
+      lb.classList.add('open'); document.body.style.overflow = 'hidden';
+    });
+  });
+  lb.addEventListener('click', function (e) { if (e.target !== big) close(); });
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape') close(); });
+})();
+</script>
