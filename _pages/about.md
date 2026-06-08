@@ -26,6 +26,7 @@ During my **M.S.** at Texas A&M, advised by [Dr. Shu Kong](https://aimerykong.gi
 
 
 # 🔥 News
+- *2026.06*: Our paper, "Data-Efficient Autoregressive-to-Diffusion Language Models via On-Policy Distillation" (**OPDLM**) is now on arXiv! [[paper]](https://arxiv.org/abs/2606.06712) [[code]](https://github.com/divelab/OPDLM)
 - *2026.05*: I have been awarded the silver reviewer award for ICML 2026!
 - *2026.04*: Our paper, "Learnability-Informed Fine-Tuning for Diffusion Language Models" was accepted at ICML 2026!
 - *2026.03*: I have been awarded the ICLR 2026 Financial Assistance grant to attend the conference in Rio!
@@ -113,6 +114,20 @@ __Tian Liu__, Huixin Zhang, **Shubham Parashar**, Shu Kong
 - [IoT-based healthcare monitoring system for war soldiers using machine learning](https://www.sciencedirect.com/science/article/pii/S1877050918310202), Aashay Gondalia, Dhruv Dixit, Shubham Parashar, Vijayanand Raghava, Animesh Sengupta, Vergin Raja Sarobin, **IcROSMA 2018**
 
 # 📝 Preprints
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/teaser-opdlm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Data-Efficient Autoregressive-to-Diffusion Language Models via On-Policy Distillation](https://arxiv.org/abs/2606.06712)
+
+**Shubham Parashar**\*, Xingyu Su\*, Jacob Helwig\*, Atharv Chagi, Lakshmi Jotsna, Degui Zhi, James Caverlee, Dileep Kalathil, Shuiwang Ji <br> <span style="font-size:0.85em">\*Equal contribution</span>
+
+[**Paper**](https://arxiv.org/abs/2606.06712) [**Website**](https://opdlm.vercel.app) [**Code**](https://github.com/divelab/OPDLM) [**Models**](https://huggingface.co/collections/divelab/opdlm)
+- We frame autoregressive-to-diffusion conversion as **post-training**: a student diffusion LM is initialized from a base ARLM and trained on its own on-policy trajectories, with the frozen ARLM acting as its own teacher via a KL objective.
+- We us On-Policy Self Distillation to close the train-inference gap in DLM training, reaching competitive performance at **1-3 orders of magnitude less training compute**, with no DLM pretraining.
+- We release models from 0.6B to 8B, along with code and training data.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/teaser-sys2bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
